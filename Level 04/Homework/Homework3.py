@@ -1,3 +1,4 @@
+                         # მიმატება
 print(20 + 10)
 print(40 + 20)
 print(60 + 40)
@@ -13,7 +14,7 @@ print(30 + 10)
 print(50 + 40)
 print(20 + 10)
 print(80 + 60) 
-
+                                             # გამოკლება
 print(92 - 46)
 print(67 - 19)
 print(99 - 41)
@@ -29,7 +30,7 @@ print(82 - 10)
 print(77 - 30)
 print(89 - 9)
 print(86 - 30)
-
+                                             # გამრავლება
 print(1 * 15)
 print(2 * 15)
 print(3 * 15)
@@ -45,7 +46,7 @@ print(12 * 15)
 print(13 * 15)
 print(14 * 15)
 print(15 * 15)
-
+                                            # გაყოფა
 print(36 // 6)
 print(64 // 8)
 print(50 // 5)
@@ -61,7 +62,7 @@ print(90 // 9)
 print(27 // 3)
 print(16 // 4)
 print(40 // 8)
-
+                                           # (5 ** 5) 5 * 5 * 5 * 5 * 5
 print (5 ** 5)
 print (10 ** 5)
 print (40 ** 2)
