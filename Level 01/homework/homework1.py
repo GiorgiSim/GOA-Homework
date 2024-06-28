@@ -39,4 +39,4 @@ mi = "wlis"
 nm = "programirobashi normaluri var"
 mm = "miyvars manqanis tareba"
 
-print (me +" "+ name +" "+ my +" "+ str(age) +" "+ mi +" "+ mu +" "+ str(height) +" "+ nm +" "+ mm)
+print(me +" "+ name +" "+ my +" "+ str(age) +" "+ mi +" "+ mu +" "+ str(height) +" "+ nm +" "+ mm)
